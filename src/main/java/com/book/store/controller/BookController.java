@@ -31,4 +31,13 @@ public class BookController {
         return ResponseEntity.status(HttpStatus.OK).body(response);
     }
 
+    /**
+     *
+     * TODO ->
+     *      1). Get Book -> Implement Search Functionality on the basis of different parameters and Pagination
+     *      2) . PUT / PATCH -> Updating Book details ( Admin )
+     *      3). DELETE : Removing book from store ( Admin )
+     *
+     * **/
+
 }

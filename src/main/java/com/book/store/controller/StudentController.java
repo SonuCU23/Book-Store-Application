@@ -41,10 +41,12 @@ public class StudentController {
     }
 
     /**
-     *  Add to API's
-     *      -> Activate/Deactive Student
-     *      -> Delete Student
      *
-     * */
+     * TODO
+     *    1). Activate / Deactivate Student
+     *    2). Delete Student
+     *
+     *
+     * **/
 
 }

@@ -48,6 +48,8 @@ public class Book {
     @JsonIgnoreProperties("book") // to avoid infinite recursion { Ignoring the book attribute in the TransactionList }
     private List<Transaction> transactionList;
 
+    // Add Status field to Activate / Deactivate student
+
     @JsonIgnore
     @Temporal(TemporalType.TIMESTAMP)
     @CreationTimestamp

@@ -2,7 +2,6 @@ package com.book.store.adapter;
 
 import com.book.store.db.entities.Student;
 import com.book.store.request.StudentRequestDto;
-import com.book.store.response.StudentGetResponseDto;
 
 public class StudentAdapter {
 
